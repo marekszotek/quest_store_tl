@@ -6,4 +6,11 @@ Incredible expansion of Codecool caused that's really hard to keep distribution 
 based on cash contribution, so he hasn't enough time to creep his mentors... He choose and invoke.
 You - the best programmers in the Universe of Code - to implement application, which will help him and mentors with coolcoins managment.
 
+##### Learning goals:
+- web development basics: client-server, HTTP requests, web MVC
+- PostgreSQL
+- HTML/CSS + JTwig template engine
+- practice Scrum
+
+
 ![Login Page Sample](src/main/resources/media/images/login-page-sample.png)
